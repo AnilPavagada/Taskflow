@@ -177,7 +177,7 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/taskflow.git
+  git clone https://github.com/AnilPavagada/Taskflow
 ```
 2. Navigate to the project directory:  
 ```bash  
@@ -188,17 +188,19 @@ cd taskflow
 npm install
 ```
 4. nitialize TailwindCSS:
-npm install
 ```bash
+npx tailwindcss init
+
 ```
 5. Start the development server:
 
 ```bash
 npm run dev
-http://localhost:3000
+
 ```
 6. Open your browser and visit:
 ```bash
+http://localhost:3000
 ```
 ## Running the Project
 
